@@ -7,12 +7,11 @@ var partitionLabels = function(s) {
   const last = {};
   const result = [];
 
-  // Step 1: last occurrence
   for (let i = 0; i < s.length; i++) {
     last[s[i]] = i;
   }
 
-  // Step 2: greedy partition
+
   let start = 0;
   let end = 0;
 
