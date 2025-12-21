@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
@@ -23,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
