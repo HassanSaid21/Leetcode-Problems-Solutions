@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
+| [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
+| [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -37,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
