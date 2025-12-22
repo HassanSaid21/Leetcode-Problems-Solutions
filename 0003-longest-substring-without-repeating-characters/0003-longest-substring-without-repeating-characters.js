@@ -5,27 +5,28 @@
 
  // pwwkew
 var lengthOfLongestSubstring = function(s) {
-    let k = []
+    let max = 0
      let i =   0
     let chars  ={}
     let c = 0
-    for(c  ;  c< s.length ;c++) {
+    for( c ;  c < s.length  ; c++) {
         if(chars[s[c]]===undefined){
             chars[s[c]]=c
-            
            i++ 
-        }else{
             
+        }else{
            c = chars[s[c]]+1
              chars={}
              chars[s[c]]=c
-            k.push(i)
+            max = i>max ?i :max
             i=1
         }
     }
-   k.push(i)
+    console.log(i , chars)
+    max=  i>max?i:max
+  
   
 
-     return k.sort((a,b)=>a-b)[k.length-1]
+     return max
     
 };
