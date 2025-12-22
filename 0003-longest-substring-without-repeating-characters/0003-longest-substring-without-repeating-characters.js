@@ -9,7 +9,7 @@ var lengthOfLongestSubstring = function(s) {
      let i =   0
     let chars  ={}
     let c = 0
-    for( c ;  c < s.length  ; c++) {
+    for( c;  c < s.length  ; c++) {
         if(chars[s[c]]===undefined){
             chars[s[c]]=c
            i++ 
