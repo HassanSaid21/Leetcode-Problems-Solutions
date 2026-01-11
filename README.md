@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
