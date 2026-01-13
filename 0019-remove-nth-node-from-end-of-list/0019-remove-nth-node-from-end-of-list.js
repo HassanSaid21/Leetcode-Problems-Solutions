@@ -18,13 +18,13 @@ var removeNthFromEnd = function(head, n) {
         length++
         p=p.next
        }
-       if(length -n===0){
+       if(length-n===0){
         head  = head.next 
         return head
        }
        else{
            p =  head 
-           for (let i = 0  ; i<length -n-1 ; i++){
+           for (let i = 1 ; i<length-n ; i++){
             p= p.next
            }
            if(p.next ){
