@@ -4,17 +4,20 @@
  * @return {string[]}
  */
 var buildArray = function(target, n) {
-    const stack =[]
     const operations= []
+    let j =0
     for(let i =  1 ; i<= n; i++){
-        stack.push(i)
         operations.push('Push')
-        if(!target.includes(i)){
-            stack.pop()
-            operations.push('Pop')
-        }
-        if(target.length===stack.length)
+        if(i===target[j]){
+           j++
+        if(target.length===j)
               break
+        }
+           else{
+            operations.push('Pop')
+           }
+
+      
     }
           return operations
 };
