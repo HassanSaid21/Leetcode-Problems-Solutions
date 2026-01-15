@@ -4,8 +4,6 @@
  * @return {string[]}
  */
 var buildArray = function(target, n) {
-    if(!target.length) return undefined
-
     const stack =[]
     const operations= []
     for(let i =  1 ; i<= n; i++){
