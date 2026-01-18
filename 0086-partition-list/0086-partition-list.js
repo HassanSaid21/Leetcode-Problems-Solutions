@@ -24,11 +24,10 @@ while(head){
            p2.next = head
             p2= p2.next
     }
-    let next = head.next 
-        head.next =null 
-        head= next
+    head= head.next 
+    
 }
+p2.next=null
   p1.next = dummy2.next 
- 
   return dummy1.next
 };
