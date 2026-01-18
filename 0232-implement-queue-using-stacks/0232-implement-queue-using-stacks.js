@@ -1,38 +1,35 @@
 
 var MyQueue = function() {
-    this.stack = []
+    this.inStack = [];
+    this.outStack = [];
 };
 
-/** 
- * @param {number} x
- * @return {void}
- */
 MyQueue.prototype.push = function(x) {
-       this.stack = [ ...this.stack ,x]
+    this.inStack.push(x);
 };
 
-/**
- * @return {number}
- */
 MyQueue.prototype.pop = function() {
-    let removed
-   [removed , ...this.stack] = [...this.stack]
-   return removed
+    if (!this.outStack.length) {
+        while (this.inStack.length) {
+            this.outStack.push(this.inStack.pop());
+        }
+    }
+    return this.outStack.pop();
 };
 
-/**
- * @return {number}
- */
 MyQueue.prototype.peek = function() {
-    return this.stack[0]
+    if (!this.outStack.length) {
+        while (this.inStack.length) {
+            this.outStack.push(this.inStack.pop());
+        }
+    }
+    return this.outStack[this.outStack.length - 1];
 };
 
-/**
- * @return {boolean}
- */
 MyQueue.prototype.empty = function() {
-    return this.stack.length ? false:true
+    return this.inStack.length === 0 && this.outStack.length === 0;
 };
+
 
 /** 
  * Your MyQueue object will be instantiated and called as such:
