@@ -15,20 +15,20 @@ var partition = function(head, x) {
       const dummy2 = new ListNode()
      let p1 = dummy1
       let p2 = dummy2
-      let cur = head
-while(cur){
-    if(cur.val < x){
-        p1.next = cur
+    
+while(head){
+    if(head.val < x){
+        p1.next = head
         p1= p1.next
     }else{
-           p2.next = cur
+           p2.next = head
             p2= p2.next
     }
-    let next = cur.next 
-        cur.next =null 
-        cur= next
+    let next = head.next 
+        head.next =null 
+        head= next
 }
   p1.next = dummy2.next 
-  head= dummy1.next
-  return head
+ 
+  return dummy1.next
 };
