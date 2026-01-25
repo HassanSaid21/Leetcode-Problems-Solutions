@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1470-shuffle-the-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1929-concatenation-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
