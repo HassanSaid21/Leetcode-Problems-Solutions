@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
