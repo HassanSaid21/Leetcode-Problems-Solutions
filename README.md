@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
 | [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
@@ -119,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
