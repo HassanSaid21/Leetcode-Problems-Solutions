@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
