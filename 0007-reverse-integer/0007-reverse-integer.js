@@ -3,18 +3,19 @@
  * @return {number}
  */
 var reverse = function(x) {
-      if(x==0 ) return  x
-    let reversed = 0 
-    let signed = x<0
-    signed ?  x*=-1 :x =x
-    while (x>0){ 
+    let res = 0
+    let sign = x < 0 ? -1 : 1
+    x = Math.abs(x)
 
-      reversed  =  reversed*10 +  x%10
-      if( reversed >2**31-1||reversed < (-2)**31 )return 0
-      x= Math.floor(x/10)
+    while (x > 0) {
+        const digit = x % 10
+        if (res > Math.floor((2**31 - 1) / 10)) return 0
+
+        res = res * 10 + digit
+        x = Math.floor(x / 10)
     }
 
+    return res * sign
 
-  return signed ? reversed*-1 :reversed
 
 };
