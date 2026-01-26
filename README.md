@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
