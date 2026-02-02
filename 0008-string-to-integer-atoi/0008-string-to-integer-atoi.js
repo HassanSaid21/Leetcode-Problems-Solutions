@@ -4,7 +4,7 @@
  */
 var myAtoi = function(s) {
 let num =0
-isfirstSign = true
+let isfirstSign = true
 let isLeadingWhiteSpaces=true
 let sign = 1
 for(let c of s){
