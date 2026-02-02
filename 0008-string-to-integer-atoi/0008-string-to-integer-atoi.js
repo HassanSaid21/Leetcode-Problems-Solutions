@@ -1,34 +1,30 @@
-/**
- * @param {string} s
- * @return {number}
- */
-var myAtoi = function(s) {
-let num =0
-let isfirstSign = true
-let isLeadingWhiteSpaces=true
-let sign = 1
-for(let c of s){
-    if(c===' ' && isLeadingWhiteSpaces) continue
-    if((c== '-'  ||c=='+') && isfirstSign ){
-         if(c==='-')sign =-1 
-        isfirstSign= false
-        isLeadingWhiteSpaces = false
-    }
-      
-    else if(c >= '0' && c <= '9'){
-        isfirstSign=false   
-isLeadingWhiteSpaces= false 
-        num= num*10 + (+c)
-        console.log(num)
-    }
-    else{
-     
-        break ;
-    }
-}
+var myAtoi = function (s) {
+    let num = 0
+    let sign = 1
+    let i = 0
 
-num*= sign
-if(num < (-2)**31) return (-2)**31
-if(num > (2**31 -1)) return 2**31 -1
-return num    
-};
+    const INT_MIN = -(2 ** 31)
+    const INT_MAX = 2 ** 31 - 1
+
+    // 1️⃣ Skip leading spaces
+    while (i < s.length && s[i] === ' ') i++
+
+    // 2️⃣ Handle sign
+    if (s[i] === '+' || s[i] === '-') {
+        sign = s[i] === '-' ? -1 : 1
+        i++
+    }
+
+    // 3️⃣ Parse digits
+    while (i < s.length && s[i] >= '0' && s[i] <= '9') {
+        num = num * 10 + (s[i] - '0')
+
+        // 4️⃣ Clamp early (optional but smart)
+        if (sign * num <= INT_MIN) return INT_MIN
+        if (sign * num >= INT_MAX) return INT_MAX
+
+        i++
+    }
+
+    return sign * num
+}
