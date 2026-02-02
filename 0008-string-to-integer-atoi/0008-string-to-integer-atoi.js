@@ -15,7 +15,7 @@ for(let c of s){
         isLeadingWhiteSpaces = false
     }
       
-    else if(!Number.isNaN(parseInt(c))){
+    else if(c >= '0' && c <= '9'){
         isfirstSign=false   
 isLeadingWhiteSpaces= false 
         num= num*10 + (+c)
