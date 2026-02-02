@@ -1,51 +1,24 @@
-/**
- * @param {number} num
- * @return {string}
- */
 var intToRoman = function(num) {
-    let hash = {
-        0 :"" ,
-        1 : 'I',
-        2 :'II',
-        3 : 'III' ,
-        4 : 'IV' ,
-        5  : 'V' ,
-        6 : 'VI' ,
-        7 : 'VII' ,
-        8 : 'VIII' ,
-        9 : 'IX' ,
-        10 : 'X' ,
-        20 : 'XX' ,
-        30 : 'XXX' ,
-        40 : 'XL' ,
-        50: 'L' ,
-        60 : 'LX' ,
-        70: 'LXX' ,
-        80: 'LXXX',
-        90 : 'XC',
-        100 : 'C' ,
-        200 : 'CC' ,
-        300 : 'CCC' ,
-        400 : 'CD' ,
-        500 : 'D' ,
-        600 : 'DC' ,
-        700 : 'DCC' ,
-        800 : 'DCCC' ,
-        900: 'CM' ,
-        1000: 'M' ,
-        2000: 'MM',
-        3000: 'MMM',
-       
-    }
-let shifter =1
- let roman =''
-    while(num>0){
-     let n = num% 10 * shifter
-     roman= hash[n] + roman
-     shifter*=10
-       num = Math.floor(num/10)
+    const values = [
+        1000, 900, 500, 400,
+        100, 90, 50, 40,
+        10, 9, 5, 4, 1
+    ]
+
+    const symbols = [
+        "M", "CM", "D", "CD",
+        "C", "XC", "L", "XL",
+        "X", "IX", "V", "IV", "I"
+    ]
+
+    let result = ""
+
+    for (let i = 0; i < values.length; i++) {
+        while (num >= values[i]) {
+            result += symbols[i]
+            num -= values[i]
+        }
     }
 
-    return roman
-    
-};
+    return result
+}
