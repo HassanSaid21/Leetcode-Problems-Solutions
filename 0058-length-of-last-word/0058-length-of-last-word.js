@@ -3,19 +3,17 @@
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    let nonEmpty = true
-    let res  =''
-    for( let c of s){
-        if(c !== ' ' && nonEmpty ){
-           res+= c 
-        } 
-        else if( c===' ') nonEmpty=false
-        else {
-            res=  ''
-            res+= c
-            nonEmpty= true
-        }
-    }
-    return res.length
+    let i = s.length - 1
+    let length = 0
 
+    // skip trailing spaces
+    while (i >= 0 && s[i] === ' ') i--
+
+    // count last word
+    while (i >= 0 && s[i] !== ' ') {
+        length++
+        i--
+    }
+
+    return length
 };
