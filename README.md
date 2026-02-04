@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
