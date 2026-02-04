@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
