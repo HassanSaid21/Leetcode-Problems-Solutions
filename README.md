@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
 | [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
