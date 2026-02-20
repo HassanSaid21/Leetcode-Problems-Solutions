@@ -25,7 +25,7 @@ var rotateRight = function(head, k) {
     cur = head
     let n = k % length
     if(n===0) return head
-        console.log(n , length)
+        
     for(let i = 0 ;  i<length-n-1 ;  i++){
         cur= cur.next
     }
