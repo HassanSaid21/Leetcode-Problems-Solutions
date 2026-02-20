@@ -11,18 +11,18 @@
  * @return {ListNode}
  */
 var rotateRight = function(head, k) {
-    if (!head ) return null
-    if(head.next ===null || k===0) return head
-    let tail
+    
+    if(!head||!head.next  || k===0 ) return head
+    let tail =head
     let cur  = head
-    let length = 0
-    while( cur ){
+    let length = 1
+    while( tail.next ){
      length++
-     tail= cur
-     cur= cur.next
+     tail= tail.next
+     
     }
     //   console.log(cur , tail , length)
-    cur = head
+   
     let n = k % length
     if(n===0) return head
         
