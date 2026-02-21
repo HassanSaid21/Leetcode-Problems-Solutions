@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 ## Counting
 |  |
 | ------- |
