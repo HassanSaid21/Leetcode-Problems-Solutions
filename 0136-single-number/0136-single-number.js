@@ -3,16 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    
-    let set = new Set()
-    for(let n of nums){
-        if(set.has(n)){
-            set.delete(n)
-
-        }
-        else {
-            set.add(n)
-        }
+    let result = 0;
+    for (let n of nums) {
+        result ^= n; // XOR cancels out duplicates
     }
-   return Array.from(set)[0]
+    return result;
 };
