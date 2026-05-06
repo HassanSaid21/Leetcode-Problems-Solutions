@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1791-find-center-of-star-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
