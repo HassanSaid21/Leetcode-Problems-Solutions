@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
