@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
