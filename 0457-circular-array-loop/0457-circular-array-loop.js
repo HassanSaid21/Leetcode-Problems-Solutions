@@ -1,88 +1,41 @@
-/**
- * @param {number[]} nums
- * @return {boolean}
- */
-var circularArrayLoop = function(nums) {
-
+function circularArrayLoop(nums) {
     const n = nums.length;
-
-    function nextIndex(i) {
-        return ((i + nums[i]) % n + n) % n;
-    }
+    const nextIndex = (i) => ((i + nums[i]) % n + n) % n;
 
     for (let i = 0; i < n; i++) {
-
-        // already processed
         if (nums[i] === 0) continue;
-
-        let direction = nums[i] > 0;
-
-        let slow = i;
-        let fast = i;
+        
+        const direction = nums[i] > 0;
+        let slow = i, fast = i;
 
         while (true) {
+            // Move slow 1 step
+            const slowNext = nextIndex(slow);
+            // 🔧 FIX: nums[slowNext] > 0, NOT slowNext > 0
+            if ((nums[slowNext] > 0) !== direction || slowNext === slow) break;
+            slow = slowNext;
 
-            // move slow
-            let nextSlow = nextIndex(slow);
+            // Move fast 1st step
+            const fastNext1 = nextIndex(fast);
+            if ((nums[fastNext1] > 0) !== direction || fastNext1 === fast) break;
+            fast = fastNext1;
 
-            // invalid direction
-            if ((nums[nextSlow] > 0) !== direction) {
-                break;
-            }
+            // Move fast 2nd step
+            const fastNext2 = nextIndex(fast);
+            if ((nums[fastNext2] > 0) !== direction || fastNext2 === fast) break;
+            fast = fastNext2;
 
-            // self loop
-            if (nextSlow === slow) {
-                break;
-            }
-
-            // move fast first step
-            let nextFast = nextIndex(fast);
-
-            if ((nums[nextFast] > 0) !== direction) {
-                break;
-            }
-
-            if (nextFast === fast) {
-                break;
-            }
-
-            // move fast second step
-            nextFast = nextIndex(nextFast);
-
-            if ((nums[nextFast] > 0) !== direction) {
-                break;
-            }
-
-            if (nextFast === nextIndex(nextFast)) {
-                break;
-            }
-
-            slow = nextSlow;
-            fast = nextFast;
-
-            // cycle found
-            if (slow === fast) {
-                return true;
-            }
+            // Cycle detected
+            if (slow === fast) return true;
         }
 
-        // mark path as visited
-        let current = i;
-
-        while ((nums[current] > 0) === direction) {
-
-            let next = nextIndex(current);
-
-            nums[current] = 0;
-
-            // stop if self-loop
-            if (next === current) {
-                break;
-            }
-
-            current = next;
+        // Mark path as visited
+        let cur = i;
+        while (nums[cur]>0 !==direction) {
+            const next = nextIndex(cur);
+            nums[cur] = 0;
+            cur = next;
         }
     }
-
     return false;
-};
+}
