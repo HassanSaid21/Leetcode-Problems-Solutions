@@ -1,29 +1,28 @@
-/**
- * @param {number[]} nums
- * @return {void} Do not return anything, modify nums in-place instead.
- */
 var sortColors = function(nums) {
-    
-    
+    let low = 0;
+    let mid = 0;
+    let high = nums.length - 1;
 
-    let left = 0 , right = nums.length-1
+    while (mid <= high) {
 
-    for(let i = 0  ; i< nums.length ;  i++){
+        if (nums[mid] === 0) {
 
-        while(i<=right){
-            if(nums[i]===0){
-            [nums[left], nums[i]] =  [nums[i] , nums[left]]
-              left++
-              i++
-            }
-         else if(nums[i]=== 2){
-            [nums[i], nums[right]] =  [nums[right] , nums[i]]
-           right--
-         }
-         else
-        i++
-}
-    } 
-          
-          return nums
-}
+            [nums[low], nums[mid]] =
+            [nums[mid], nums[low]];
+
+            low++;
+            mid++;
+
+        } else if (nums[mid] === 1) {
+
+            mid++;
+
+        } else {
+
+            [nums[mid], nums[high]] =
+            [nums[high], nums[mid]];
+
+            high--;
+        }
+    }
+};
