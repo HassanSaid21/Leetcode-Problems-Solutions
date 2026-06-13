@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0278-first-bad-version) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0238-product-of-array-except-self) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
