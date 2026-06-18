@@ -9,51 +9,36 @@
  * @param {ListNode} head
  * @return {void} Do not return anything, modify head in-place instead.
  */
-
-function reverseOrder(head){
- 
- let prev =  null
- 
-while(head){
- let   temp = head.next
-    head.next = prev
-    prev= head
-    head= temp
-}
-// console.log(prev)
-return prev
-
-
-}
 var reorderList = function(head) {
-    if(!head ||!head.next ||!head.next.next) return head
-    
-    let fast = head.next
-    let slow = head
-    let steps=0
-    let prev
-    while(fast){
-        prev= slow
-        slow = slow.next
-        fast= fast.next?.next
-        steps++
-    }
+    if(!head||!head.next) return
+   
+   // point to the sconed half
+    let fast = head  , slow = head
+    while(fast&&fast.next){
+        fast=  fast.next.next
+        slow =  slow.next
 
-    // console.log( prev ,steps , slow)
-
-   if(prev)  prev.next=   reverseOrder(slow)
-// console.log(head , steps)
-   let cur  = head
-    for(let i = 1 ; i<steps ; i++){
-       let temp = cur.next
-       let temp2= prev.next
-       let temp3 = temp2.next
-       cur.next = temp2
-       temp2.next = temp
-       prev.next= temp3
-       cur= temp
     }
-    return head
+    // reverse the sconed half
+
+    let prev = null
+    let cur = slow
+    while(cur){
+        let temp  = cur.next
+        cur.next  = prev
+        prev = cur
+        cur  =  temp
+    }
+   // combine two halfs again
+   let first  = head  , sconed = prev
+   while(sconed &&sconed.next){
+     let t1  = first.next 
+     let t2   = sconed.next
+     first.next = sconed 
+     sconed.next = t1
+     first = t1
+     sconed = t2
+
+   }
+
 };
-
-
