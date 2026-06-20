@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Simulation
 |  |
 | ------- |
