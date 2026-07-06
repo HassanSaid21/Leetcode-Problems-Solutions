@@ -16,20 +16,15 @@ var reverseKGroup = function(head, k) {
   let prevGroupTail = dummy
   let cur = head 
    
-   let groups = 0
-   let counter  =0
+   let length = 0
+   
     while(cur){
-     counter++
-     if(counter ===k){
-        counter= 0
-        groups++
-     }
-    
+    length++
      cur = cur.next
     }
     
     cur = head
-      while(groups>0){
+      while(length>=k){
          let prev = null
          let tail = cur
         for (let i = 0 ; i<k ; i++){
@@ -41,7 +36,7 @@ var reverseKGroup = function(head, k) {
          tail.next = cur
          prevGroupTail.next= prev
          prevGroupTail = tail
-         groups--
+         length-=k
       
       }
 
