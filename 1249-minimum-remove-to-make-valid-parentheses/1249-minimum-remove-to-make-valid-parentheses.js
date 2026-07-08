@@ -6,20 +6,20 @@ var minRemoveToMakeValid = function (s) {
 
     let res = ''
 
-    let stack1 = []
-    let stack2 = []
+    let openStack = []
+    let closeStack = []
     
     for (let i= 0; i<s.length  ;   i++) {
         if (s[i] === '(') {
-            stack1.push(i)
+            openStack.push(i)
 
         }
-        if (s[i] === ')') {
-            stack2.push(i)
+       else if (s[i] === ')') {
+            closeStack.push(i)
 
-            if (stack1.length !== 0) {
-                stack2.pop()
-                stack1.pop()
+            if (openStack.length !== 0) {
+                closeStack.pop()
+                openStack.pop()
 
 
             }
@@ -27,12 +27,11 @@ var minRemoveToMakeValid = function (s) {
         }
         
     }
-    let set =  new Set ([...stack1 , ...stack2])
+    let set =  new Set ([...openStack , ...closeStack])
     for (let i= 0 ; i<s.length ;i++) {
         if (!set.has(i)) {
             res += s[i]
         }
-        
     }
 
 
