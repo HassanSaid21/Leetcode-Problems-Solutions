@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
 ## Greedy
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
