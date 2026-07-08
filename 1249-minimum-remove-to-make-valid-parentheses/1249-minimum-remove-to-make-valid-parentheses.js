@@ -29,7 +29,6 @@ var minRemoveToMakeValid = function (s) {
     }
     let set =  new Set ([...stack1 , ...stack2])
 
-    console.log(set)
     for (let i= 0 ; i<s.length ;i++) {
         if (!set.has(i)) {
             res += s[i]
