@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0058-length-of-last-word) |
+| [0224-basic-calculator](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0224-basic-calculator) |
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
 ## String Matching
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0224-basic-calculator) |
 ## Counting
 |  |
 | ------- |
