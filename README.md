@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
