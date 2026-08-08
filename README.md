@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
+| [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
