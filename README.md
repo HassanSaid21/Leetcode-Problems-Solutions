@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0457-circular-array-loop) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 ## Enumeration
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
 ## String Matching
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0278-first-bad-version) |
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
