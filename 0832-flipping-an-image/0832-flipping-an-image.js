@@ -5,8 +5,8 @@
 var flipAndInvertImage = function(image) {
     let rows = image.length
     let cols = image[0].length
-    let k = cols-1
     for(let i = 0 ; i<rows ;  i++){
+    let k = cols-1
         for(let j = 0 ; j<cols ; j++){
             if(j<k){
           [image[i][j] , image[i][k]]=[image[i][k] , image[i][j]]
@@ -20,7 +20,7 @@ var flipAndInvertImage = function(image) {
           }
           
         }
-        k=cols-1
+     
     }
 
 return image
