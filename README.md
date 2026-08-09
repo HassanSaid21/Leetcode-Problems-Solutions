@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0457-circular-array-loop) |
 | [0763-partition-labels](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1929-concatenation-of-array) |
 ## Design
@@ -260,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
