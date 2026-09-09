@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1929-concatenation-of-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
