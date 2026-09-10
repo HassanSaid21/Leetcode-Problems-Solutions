@@ -14,9 +14,9 @@ var findBall = function (grid) {
         //  we loop on each col until it get stuck or reach the end 
         while (row < rows) {
             //check wether the ball in right diagonal 
-            if (grid[row][col] === 1) {
+            if (grid[row][col] === 1 ) {
                 //check if it stucks by checking on the v shape or it reach end of the wall
-                if (grid[row][col] !== grid[row][col + 1] || grid[row][col + 1] === undefined) {
+                if (grid[row][col] !== grid[row][col + 1] || col+1===cols) {
                     break;
                 }
                 col++
@@ -25,7 +25,7 @@ var findBall = function (grid) {
             //checking the left diagonal
             else {
                 // now check if it stucks by checking on the v shape or it reach end of the wall
-                if (grid[row][col] !== grid[row][col - 1] || grid[row][col - 1] === undefined) {
+                if (grid[row][col] !== grid[row][col - 1] || col - 1 < 0) {
                     break;
                 }
 
