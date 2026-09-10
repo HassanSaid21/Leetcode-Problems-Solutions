@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1470-shuffle-the-array) |
+| [1706-where-will-the-ball-fall](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1929-concatenation-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1706-where-will-the-ball-fall](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
@@ -277,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
+| [1706-where-will-the-ball-fall](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1706-where-will-the-ball-fall) |
 <!---LeetCode Topics End-->
