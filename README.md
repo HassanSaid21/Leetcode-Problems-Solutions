@@ -221,10 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0069-sqrtx) |
+| [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
