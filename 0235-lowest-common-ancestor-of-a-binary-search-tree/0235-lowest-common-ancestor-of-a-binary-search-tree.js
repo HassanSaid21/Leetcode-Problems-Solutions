@@ -35,7 +35,7 @@ function sBST(node , key){
  let set=new Set(stack)
  stack= []
  sBST(root , q.val)
-  console.log(set , stack)
+  
 
  while(stack.length>0){
     node = stack.pop()
