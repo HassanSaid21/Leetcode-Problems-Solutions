@@ -14,7 +14,7 @@
  */
 var lowestCommonAncestor = function(root, p, q) {
     
-    let ancestor = new Set()
+
     let stack = []
 function sBST(node , key){
     if(node===null) return null
@@ -38,7 +38,7 @@ function sBST(node , key){
   
 
  while(stack.length>0){
-    node = stack.pop()
+    let node = stack.pop()
     if( set.has(node))
     return node
  }
