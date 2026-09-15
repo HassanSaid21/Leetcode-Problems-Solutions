@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0278-first-bad-version) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0528-random-pick-with-weight](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
