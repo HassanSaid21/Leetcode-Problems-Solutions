@@ -24,10 +24,10 @@ function sBST(node , key){
         }
         else if(node.val>key){
             
-            sBST(node.left , key)
+          return  sBST(node.left , key)
         }
         else{
-            sBST(node.right , key)
+          return  sBST(node.right , key)
 
         }
 }
@@ -39,7 +39,6 @@ function sBST(node , key){
 
  while(stack.length>0){
     node = stack.pop()
-    // console.log(set.has(node))
     if( set.has(node))
     return node
  }
