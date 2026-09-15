@@ -222,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0832-flipping-an-image) |
 | [1706-where-will-the-ball-fall](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/1706-where-will-the-ball-fall) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
