@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/HassanSaid21/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
